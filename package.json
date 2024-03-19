@@ -1,0 +1,14 @@
+{
+    "dependencies": {
+        "jquery": "^3.7.1",
+        "slick-carousel": "^1.8.1"
+    },
+    "prettier": {
+        "bracketSameLine": true,
+        "trailingComma": "all",
+        "tabWidth": 2,
+        "semi": true,
+        "singleQuote": true,
+        "htmlWhitespaceSensitivity": "ignore"
+    }
+}
